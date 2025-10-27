@@ -1,0 +1,8 @@
+Pyhton packages to install
+
+streamlit
+pandas
+matplotlib
+seaborn
+sqlalchemy
+mysql-connector-python
